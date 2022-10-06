@@ -26,16 +26,16 @@ public class Persona {
 	
 	/*---------------------------------------------------------*/
 	public int getEdad(int edad) {
-		 return edad = edad;
+		 return edad;
 		
 	}
 	
 	public String getNombre(String nombre){
-		return nombre = nombre;	
+		return nombre;	
 	}
 
 	public int getTelefono(int telefono) {
-		return telefono = telefono;
+		return telefono;
 	
 	}
 	
