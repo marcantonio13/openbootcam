@@ -6,8 +6,8 @@
 
 
 
-peso = float(input("Dame tu peso en Kg:  "));
-estatura = float(input("Dame tu estatura:  "));
+peso = float(input("Dame tu peso en [Kg]:  "));
+estatura = float(input("Dame tu estatura en [m]:  "));
 
 
 
