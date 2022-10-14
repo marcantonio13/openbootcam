@@ -20,7 +20,7 @@ class Alumno:
 
 
 alumno1 = Alumno()
-alumno1.Nota("Antonio",9)
+alumno1.Nota("Antonio",6)
 
 
 
