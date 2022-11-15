@@ -13,15 +13,11 @@ String[] nombres = {"", "", "", ""}
 	 * **/
 	public static void main(String[] args) {
 		
-		String[] nombres = {"Marco "+"como"+" estas"};
+		int a =  10; 
 		
+		System.out.print(%)
 		
-		for(int i = 0; i < nombres.length; i++ ) {
-			
-			System.out.print(nombres[i]);
-			
-		
-			
+			 
 		}
 		
 		
